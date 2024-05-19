@@ -6,14 +6,6 @@
     padding: 0px;
 }
 
-/*
-.bree-serif-regular {
-  font-family: "Bree Serif", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-*/
-
 /* Cores:
 #0DAB2B - Verde
 #FFFFFF - Branco
@@ -53,6 +45,15 @@
     color: #ffffff;
     text-align: justify;
     line-height: 30px;
+}
+
+.botao {
+    background-color: #0DAB2B;
+    font-family: "Bree Serif," serif;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 8px;
+    border-radius: 15px;
 }
 
 .carrosel {
