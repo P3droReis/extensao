@@ -1,16 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
 
+/* Cores:
+#0DAB2B - Verde
+#FFFFFF - Branco
+#000000 - preto 
+*/
+
 * {
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
 }
 
-/* Cores:
-#0DAB2B - Verde
-#FFFFFF - Branco
-#000000 - preto 
-*/
+
 
 .cabecalho {
     background-color: #0DAB2B ;
@@ -35,7 +37,7 @@
 
 main {
     background-color: #000000;
-    height: 380px;
+    height: 413px;
     display: flex;
     justify-content:space-around;
     align-items: center;
@@ -125,7 +127,7 @@ footer > p > a {
 
 @media screen and (min-width:1330px) {
     main {
-        height: 428px;
+        height: 462px;
     }
      
 }
